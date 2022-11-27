@@ -1,4 +1,4 @@
-Project Tableau
+Tableau Project
 
 This project consisted of conducting an analysis of Gallup's Happiness World Reports from 2015
 to 2022, ultimately to create a dashboard in Tableau. The Happiness Score is a 
